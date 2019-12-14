@@ -1,0 +1,47 @@
+h3 {
+    font: 200% 'Anton', sans-serif;
+    margin-left:10px;
+}
+#image {
+    width: 300px;
+    height: 200px;
+    margin: 0.5em;
+}
+.container {
+    border: 2px solid gray;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgba(228, 227, 227, 0.63);
+    box-shadow: 10px 18px 10px -5px rgba(0,0,0,0.71);
+    border-radius: 5px;
+}
+.content {
+    border: 0.5px solid rgba(143, 143, 143, 0.678);
+    padding: 10px;
+    width: 280px;
+    margin:0.5em;
+    border-radius: 5px;
+}
+.species {
+    font-style: italic;
+    font-family: 'Asap', sans-serif;
+}
+span {
+    font-weight: bold;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left:-38px;
+}
+li {
+    list-style: none;
+    font-family: 'Asap', sans-serif;
+}
+.Italic {
+    font-style: italic;
+    font-family: 'Asap', sans-serif;
+    color: darkred;
+}
+.justify {
+    text-align: justify;
+    text-indent: 25px;
+}
